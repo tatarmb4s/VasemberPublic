@@ -1,0 +1,52 @@
+/*
+Author: Tatár Mátyás Bence
+https://tatarmb4s.github.io/portfolioBuild/
+*/
+
+$primary: #660bd6;
+$secondary: $gray-300;
+$dark: $gray-500;
+$yiq-text-light: $black;
+$body-color: $gray-100;
+$body-bg: $gray-900;
+$border-color: $gray-100;
+$box-shadow-lg: 0 1rem 3rem rgba($white, .175);
+$box-shadow: 0 .5rem 1rem rgba($white, .15);
+$box-shadow-sm: 0 .125rem .25rem rgba($white, .075);
+$hr-border-color: rgba($white, .1);
+$text-muted: $gray-200;
+$blockquote-small-color: $gray-200;
+$table-accent-bg: rgba($white, .05);
+$table-hover-bg: rgba($white, .075);
+$table-head-bg: $gray-800;
+$table-head-color: $gray-300;
+$table-dark-accent-bg: rgba($gray-900, .05);
+$table-border-level: -2;
+$table-bg-level: 0.5;
+$nav-link-disabled-color: $gray-400;
+$nav-tabs-border-color: $primary;
+$nav-tabs-link-active-color: $white;
+$nav-tabs-link-active-bg: $primary;
+$nav-tabs-link-active-border-color: $primary $primary $nav-tabs-link-active-bg;
+$nav-tabs-link-hover-border-color: $primary $primary $nav-tabs-border-color;
+$card-bg: $body-bg;
+$card-border-color: rgba($white, .225);
+$card-cap-bg: rgba($black, .05);
+$popover-bg: $body-bg;
+$modal-content-bg: $body-bg;
+$modal-content-border-color: rgba($white, .5);
+$modal-content-box-shadow-xs: 0 .25rem .5rem rgba($white, .5);
+$modal-content-box-shadow-sm-up: 0 .5rem 1rem rgba($white, .5);
+$modal-backdrop-bg: $white;
+$alert-bg-level: -3;
+$alert-color-level: 8;
+$progress-bg: $gray-800;
+$list-group-bg: $body-bg;
+$list-group-border-color: rgba($white, .125);
+$list-group-action-color: $gray-300;
+$list-group-action-active-color: $primary;
+$list-group-action-hover-color: rgba($primary, .7);
+$thumbnail-border-color: $gray-700;
+$thumbnail-box-shadow: 0 1px 2px rgba($white, .075);
+$figure-caption-color: $gray-300;
+$jumbotron-bg: $gray-800;

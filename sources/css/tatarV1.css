@@ -1,0 +1,108 @@
+/*
+Author: Tatár Mátyás Bence
+https://tatarmb4s.github.io/portfolioBuild/
+*/
+
+@font-face {
+    font-family: AsROG;
+    src: url(../fonts/AsusRog-Regular_2.ttf);
+}
+@font-face {
+    font-family: GeforceBold;
+    src: url(../fonts/GeforceBold.ttf);
+}
+
+
+header {
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.327),rgba(0, 0, 0, 0.3)) , url(../img/Neumann.png); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position-x: center;
+    background-position-y: center;
+    
+}
+
+.forras-link {
+    color: rgb(0, 174, 255);
+    font-family: GeforceBold;
+    font-size: 1.5rem;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: block;
+    text-decoration: underline 0.15em rgba(0, 0, 0, 0);
+    transition: text-decoration-color 300ms;
+}
+
+.forras-link:hover {
+    color: rgb(0, 195, 255);
+    text-decoration-color: rgb(0, 195, 255);
+}
+
+.bg-white {
+    background-color: white;
+}
+.bg-dark2 {
+    background-color: #343a40;
+}
+.color-white {
+    color: white !important;
+}
+
+iframe {
+    height: 16.2rem !important;
+    width: 28.8rem !important;
+}
+
+h1:first-child {
+    font-family: GeforceBold;
+}
+
+.jarvis {
+    font-family: AsROG;
+    color: rgb(0, 225, 255);
+    text-decoration: underline 0.15em rgba(0, 0, 0, 0);
+    transition: text-decoration-color 300ms;
+    transition: letter-spacing 300ms;
+}
+
+.jarvis:hover {
+    /* font-family: GeforceBold; */
+    letter-spacing: 2px;
+    /* font-size: larger; */
+    text-decoration: underline;
+    color: aqua;
+    text-decoration-color: aqua;
+
+}
+
+.green {
+    color: greenyellow;
+    transition: text-decoration-color 300ms;
+    transition: letter-spacing 300ms;
+    font-family: AsROG;
+}
+.green:hover {
+    font-family: AsROG;
+    letter-spacing: 2px;
+    /* font-size: larger; */
+    color: greenyellow;
+    text-decoration: underline;
+    text-decoration-color: greenyellow;
+}
+.red {
+    color: red;
+    transition: text-decoration-color 300ms;
+    transition: letter-spacing 300ms;
+    font-family: AsROG;
+}
+.red:hover {
+    font-family: AsROG;
+    letter-spacing: 2px;
+    /* font-size: larger; */
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
