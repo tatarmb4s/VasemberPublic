@@ -1,8 +1,10 @@
-# VasemberPublic
+# Vasember feladatsor
+### Készítette: ttrmb4s
 
 
-bs = bootstrap
-
+A bs a következőkben = bootstrap
+A feladatok elkezdése előtt olvasd végig az utasítást! Több dolog átfedésben van egymással, és van amit a feladat utasítás végén találsz. Ha ez kényelmetlen lenne, ki tettem két külön fájlba a dolgokat.
+Nézz meg minden .md, .html, .css, .js file-t az elkezdés előtt.
 ## Előkészületek
 
 1. Hozz létre egy `index.html` fájlt a gyökér mappába
