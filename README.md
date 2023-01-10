@@ -1,6 +1,6 @@
 # Vasember feladatsor
 ### Készítette: ttrmb4s
-
+##### Forrás: https://github.com/tatarmb4s/VasemberPublic
 
 A bs a következőkben = bootstrap
 A feladatok elkezdése előtt olvasd végig az utasítást! Több dolog átfedésben van egymással, és van amit a feladat utasítás végén találsz. Ha ez kényelmetlen lenne, ki tettem két külön fájlba a dolgokat.
