@@ -35,7 +35,7 @@ const nextPage = () => {
     return nextOldal.link;
 }
 const author = "Tatár Mátyás Bence"; // Az oldal szerzője
-const authorLink = "https://tatarmb.tk/";
+const authorLink = "https://tatarmb.hu/";
 const footerHTML = `
 <div class="container p-4">
     <div class="row">
